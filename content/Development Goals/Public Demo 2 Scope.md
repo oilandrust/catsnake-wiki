@@ -6,21 +6,21 @@
 - [ ] 2D assencion style?
 - [ ] Long Snake
 # Definition
-- [ ] 10 Levels showcasing core gameplay + Quality over Quantity
+- [x] 10 Levels showcasing core gameplay + Quality over Quantity
 - [ ] Analytics
 - [ ] Kitchen Style
-- [ ] Good enough looking Cat Models
+- [x] Good enough looking Cat Models
 - [ ] Some eye candy
-- [ ] Core complex level combining
-- [ ] 4/5 core gameplay dynamics
+- [x] Core complex level combining
+- [x] 4/5 core gameplay dynamics
 	- [x] Grow, move, move up and exit level
 	- [x] Press Buttons / Grow
 	- [x] Push boxes
 	- [x] Assist
 		- [x] Carry Boxes
-		- [ ] Carry Snake
+		- [x] Carry Snake
 		- [ ] Push Snake
-	- [ ] ????
+	- [x] Combinaison
 - [x] Music
 - [ ] Sound effecte: Cat, move, grow
 - [ ] Bug free movement / Undo / Push

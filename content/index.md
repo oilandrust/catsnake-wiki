@@ -1,5 +1,1 @@
----
-title: CatSnake Development Wiki
----
-
-Welcome to **CatSnake Development Wiki**.
+![[2026-06-27 10.57.31.gif]]
